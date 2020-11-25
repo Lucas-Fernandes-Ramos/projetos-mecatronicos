@@ -1,0 +1,24 @@
+
+.titulo{
+    text-align: center;
+}
+
+.teste{
+    background-color: rgb(190, 189, 189);
+    text-align: center;
+    padding: 5px;
+    margin:5px;
+    display: flex;
+}
+
+.valores{
+    background-color: rgb(218, 211, 211);
+}
+
+#quente{
+    color: red;
+}
+
+#normal{
+    color: seagreen;
+}
